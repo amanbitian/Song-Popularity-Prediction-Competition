@@ -1,4 +1,5 @@
 # Song-Popularity-Prediction-Competition
+Rank 1 solution is work of Mickael Not mine [his profile](https://www.kaggle.com/squarex), [His Notebook](https://www.kaggle.com/squarex/song-popularity-prediction-eda-1st-place)
 ## EDA
 
 ![__results___16_0](https://user-images.githubusercontent.com/86042628/150534593-636a4c31-2c97-4327-a1e0-c1c629058c39.png)
